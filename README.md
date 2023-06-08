@@ -15,3 +15,4 @@ The League of Legends ARAM Balance Buff Tracker is a program designed to enhance
 5. Optional: Use the displayed information to make informed decisions during champion select.
 
 # Screenshots
+![](/.github/images/image.png)
