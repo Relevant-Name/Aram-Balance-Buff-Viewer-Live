@@ -1,7 +1,7 @@
 <div align="center">
 
-# Overview
-The League of Legends ARAM Balance Buff Tracker is a program designed to enhance your ARAM champion select experience. By running the provided executable file, you gain access to real-time data and insights about the balance buffs in ARAM matches.
+# Aram Balance Buff Viewer Live!
+The League of Legends ARAM Balance Buff Tracker is a program designed to enhance your ARAM champion select experience. By running the provided executable file, you gain access to real-time data about the balance buffs in ARAM matches.
 
 
 # How to Use
